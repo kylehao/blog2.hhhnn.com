@@ -9,7 +9,7 @@
 title: 听松阁
 brief-intro: 免费资源分享
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.free345.com" # the base hostname & protocol for your site
+url: "https://gaohaoyang.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
