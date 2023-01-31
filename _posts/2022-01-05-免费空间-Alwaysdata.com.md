@@ -2,8 +2,8 @@
 layout: post
 title: 免费空间-Alwaysdata.com 100M空间/1G流量/支持PHP/需要信用卡
 tags:
-- VPS
-- 便宜
+- 虚拟主机
+- 免费
 categories: 免费虚拟主机
 description: 免费空间-Alwaysdata.com 100M空间/1G流量/支持PHP/需要信用卡
 ---

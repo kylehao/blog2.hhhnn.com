@@ -2,8 +2,8 @@
 layout: post
 title: 老牌免费空间-Xfreehosting.com 999M空间/无限流量/静态空间/支持绑米
 tags:
-- VPS
-- 便宜
+- 虚拟主机
+- 免费
 categories: 免费虚拟主机
 description: 老牌免费空间-Xfreehosting.com 999M空间/无限流量/静态空间/支持绑米
 ---
