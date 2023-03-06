@@ -2,7 +2,7 @@
 layout: post
 title: Cloudflare对象存储R2配置
 tags:
-- aapanel
+- 对象存储
 image: 25.jpg
 ---
 
